@@ -1,28 +1,4 @@
-# InventoryHub - Full Stack Application
 
-This is the InventoryHub inventory management system for a small business. The application consists of a Blazor WebAssembly front-end and a Minimal API back-end.
-
-## Project Structure
-
-```
-FS_Course7_Module2/
-└── FullStackApp/
-    ├── ClientApp/          # Blazor WebAssembly front-end application
-    ├── ServerApp/          # Minimal API back-end application
-    ├── FullStackSolution.sln
-    ├── README.md
-    ├── API_SCHEMA.md
-    ├── DEBUGGING.md
-    ├── ACTIVITY3_SUMMARY.md
-    ├── test-api.ps1
-    └── test-json-structure.ps1
-```
-
-## Setup Instructions
-
-### Prerequisites
-- .NET 9.0 SDK or later
-- Visual Studio Code or Visual Studio
 
 ### Running the Application
 
